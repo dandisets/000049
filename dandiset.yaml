@@ -4,9 +4,9 @@
 access:
 - status: dandi:Open
 contributor:
-- identifier: https://orcid.org/0000-0002-6255-6085
+- identifier: 0000-0002-6255-6085
   includeInCitation: true
-  name: Last, First
+  name: Millman, Daniel
   roleName:
   - dandi:ContactPerson
   - dandi:Author
