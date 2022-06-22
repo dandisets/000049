@@ -2,6 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000049
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.0/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -37,8 +38,9 @@ assetsSummary:
   - Units
   - PlaneSegmentation
   - BehavioralTimeSeries
-citation: Millman, Daniel (2022) Allen Institute – TFxSF tuning in mouse visual cortex
-  with calcium imaging (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000049/draft
+citation: Millman, Daniel; de Vries, Saskia (2022) Allen Institute – TFxSF tuning
+  in mouse visual cortex with calcium imaging (Version draft) [Data set]. DANDI archive.
+  https://dandiarchive.org/dandiset/000049/draft
 contributor:
 - identifier: 0000-0002-6255-6085
   includeInCitation: true
@@ -47,17 +49,33 @@ contributor:
   - dcite:ContactPerson
   - dcite:Author
   schemaKey: Person
+- affiliation: []
+  email: saskiad@alleninstitute.org
+  identifier: 0000-0002-3704-3499
+  includeInCitation: true
+  name: de Vries, Saskia
+  roleName:
+  - dcite:ContactPerson
+  - dcite:ProjectLeader
+  schemaKey: Person
 dateCreated: '2020-12-10T16:33:45.474000+00:00'
 description: Allen Institute MindScope project
+ethicsApproval: []
 id: DANDI:000049/draft
 identifier: DANDI:000049
 keywords:
 - Mouse
+license:
+- spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000049/versions/draft/assets/
 name: Allen Institute – TFxSF tuning in mouse visual cortex with calcium imaging
-repository: https://dandiarchive.org/
+protocol: []
+relatedResource: []
+repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
+studyTarget: []
 url: https://dandiarchive.org/dandiset/000049/draft
 version: draft
+wasGeneratedBy: []
