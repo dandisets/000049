@@ -38,15 +38,15 @@ assetsSummary:
   - Units
   - PlaneSegmentation
   - BehavioralTimeSeries
-citation: Millman, Daniel; de Vries, Saskia (2022) Allen Institute – TFxSF tuning
+citation: Millman, Daniel; de Vries, Saskia (2023) Allen Institute – TFxSF tuning
   in mouse visual cortex with calcium imaging (Version draft) [Data set]. DANDI archive.
   https://dandiarchive.org/dandiset/000049/draft
 contributor:
-- identifier: 0000-0002-6255-6085
+- affiliation: []
+  identifier: 0000-0002-6255-6085
   includeInCitation: true
   name: Millman, Daniel
   roleName:
-  - dcite:ContactPerson
   - dcite:Author
   schemaKey: Person
 - affiliation: []
@@ -65,6 +65,8 @@ id: DANDI:000049/draft
 identifier: DANDI:000049
 keywords:
 - Mouse
+- 2-photon calcium imaging
+- visual cortex
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
